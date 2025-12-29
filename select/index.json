@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Look at the Sky",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-29T21:37:48.165790Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Look At The Sky",
+      "artist": "Ulrich Schnauss",
+      "has_synced": true,
+      "path": "select/01_Look_At_The_Sky_Ulrich_Schnauss.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Look at the Sky",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/02_Look_at_the_Sky_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Look at the Sky",
+      "artist": "BRANDENBURG",
+      "has_synced": false,
+      "path": "select/03_Look_at_the_Sky_BRANDENBURG.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LOOK AT THE SKY",
+      "artist": "Osees",
+      "has_synced": true,
+      "path": "select/04_LOOK_AT_THE_SKY_Osees.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Look at the Sky",
+      "artist": "Olly Murs",
+      "has_synced": true,
+      "path": "select/05_Look_at_the_Sky_Olly_Murs.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Look at the Sky",
+      "artist": "Olly Murs",
+      "has_synced": true,
+      "path": "select/06_Look_at_the_Sky_Olly_Murs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Look At The Sky",
+      "artist": "Ulrich Schnauss",
+      "has_synced": false,
+      "path": "select/07_Look_At_The_Sky_Ulrich_Schnauss.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Look At The Sky",
+      "artist": "The Evan Anthem",
+      "has_synced": false,
+      "path": "select/08_Look_At_The_Sky_The_Evan_Anthem.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Look at the Sky",
+      "artist": "Oh Sees",
+      "has_synced": true,
+      "path": "select/09_Look_at_the_Sky_Oh_Sees.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "look at the sky",
+      "artist": "Phritz",
+      "has_synced": true,
+      "path": "select/10_look_at_the_sky_Phritz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Look At The Sky",
+      "artist": "FFLORA",
+      "has_synced": true,
+      "path": "select/11_Look_At_The_Sky_FFLORA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Look at the Sky",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Look_at_the_Sky_Porter_Robinson.txt"
+    }
+  ]
+}
